@@ -1,9 +1,7 @@
 # ---------------------------------------------------------------------------
 # Persona      : Anthony Hicks (Long-Haul OTR Driver, Ridgeline Freight, Birmingham AL)
-# Variant      : enterprise_with_personal_overlay
 # Window       : Thu 2026-10-22 06:10 -> Wed 2026-10-28 18:30
 # Timezone     : America/Chicago
-# Source       : Generated from task.py TURNS[i]["wake_up_message"] - bit-identical
 # Note         : Each "--- TURN ... ---" header is comment; the lines BELOW are
 #                what the orchestrator delivers to the agent at that turn.
 # ---------------------------------------------------------------------------
